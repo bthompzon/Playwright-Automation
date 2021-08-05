@@ -1,0 +1,1911 @@
+{
+    "currentPage": 1,
+    "total": 126,
+    "totalPages": 6,
+    "pageSize": 24,
+    "products": [
+        {
+            "sku": "15318900",
+            "name": "Brads Nintendo Switch Left and Right Joy-Con Controllers - The Legend of Zelda: Skyward Sword HD",
+            "shortDescription": "Dive into the immersive world The Legend of Zelda with these specially designed Joy-Con controllers for the Nintendo Switch system. Great for at home or on-the-go gaming, these controllers make it easy to bring your games with you anywhere you go. Use them independently in each hand, or together as one game controller by attaching them to the Joy-Con grip.",
+            "customerRating": 4.73,
+            "customerRatingCount": 86,
+            "customerReviewCount": 86,
+            "productUrl": "/en-ca/product/nintendo-switch-left-and-right-joy-con-controllers-the-legend-of-zelda-skyward-sword-hd/15318900.aspx?",
+            "currentRegion": null,
+            "hideSavings": true,
+            "hideSaleEndDate": true,
+            "productType": null,
+            "regularPrice": 99.99,
+            "salePrice": 99.99,
+            "saleEndDate": null,
+            "thumbnailImage": "https://multimedia.bbycastatic.ca/multimedia/products/150x150/153/15318/15318900.jpg",
+            "primaryParentCategoryId": null,
+            "categoryName": "Nintendo Switch Controllers",
+            "ehf": 0,
+            "seoText": "nintendo-switch-left-and-right-joy-con-controllers-the-legend-of-zelda-skyward-sword-hd",
+            "sellerId": null,
+            "seller": null,
+            "highResImage": "https://multimedia.bbycastatic.ca/images/common/pictures/noimage1500x1500.jpg",
+            "altLangSeoText": null,
+            "offerId": null,
+            "priceUnit": "",
+            "requiresAgeVerification": false,
+            "isPriceEndsLabel": false,
+            "hasPromotion": false,
+            "isAdvertised": false,
+            "isClearance": false,
+            "isInStoreOnly": false,
+            "isOnlineOnly": false,
+            "isVisible": true,
+            "isPreorderable": false,
+            "isFrenchCompliant": true,
+            "isMarketplace": false,
+            "hasFrenchContent": false,
+            "categoryIds": [
+                "26516",
+                "621915",
+                "15303209",
+                "3458023",
+                "13274190"
+            ]
+        },
+        {
+            "sku": "12601646",
+            "name": "The Legend of Zelda: Link's Awakening (Switch)",
+            "shortDescription": "Go on an incredible journey with Link in The Legend of Zelda: Link's Awakening for Nintendo Switch. After Link washes ashore on a mysterious island, he must collect magical instruments across the land and awaken the Wind Fish. Along the way, he'll explore the island, meet its colourful inhabitants, collect treasure, and dodge monsters.",
+            "customerRating": 4.82,
+            "customerRatingCount": 3562,
+            "customerReviewCount": 3562,
+            "productUrl": "/en-ca/product/the-legend-of-zelda-link-s-awakening-switch/12601646.aspx?",
+            "currentRegion": null,
+            "hideSavings": false,
+            "hideSaleEndDate": false,
+            "productType": null,
+            "regularPrice": 79.99,
+            "salePrice": 54.99,
+            "saleEndDate": 1628233199000,
+            "thumbnailImage": "https://multimedia.bbycastatic.ca/multimedia/products/150x150/126/12601/12601646.jpg",
+            "primaryParentCategoryId": null,
+            "categoryName": "Nintendo Switch Games",
+            "ehf": 0,
+            "seoText": "the-legend-of-zelda-link-s-awakening-switch",
+            "sellerId": null,
+            "seller": null,
+            "highResImage": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/126/12601/12601646.jpg",
+            "altLangSeoText": null,
+            "offerId": null,
+            "priceUnit": "",
+            "requiresAgeVerification": false,
+            "isPriceEndsLabel": false,
+            "hasPromotion": true,
+            "isAdvertised": true,
+            "isClearance": false,
+            "isInStoreOnly": false,
+            "isOnlineOnly": false,
+            "isVisible": true,
+            "isPreorderable": false,
+            "isFrenchCompliant": true,
+            "isMarketplace": false,
+            "hasFrenchContent": false,
+            "categoryIds": [
+                "26516",
+                "621915",
+                "15303209",
+                "3457863"
+            ]
+        },
+        {
+            "sku": "15317230",
+            "name": "The Legend of Zelda: Skyward Sword HD (Switch)",
+            "shortDescription": "Experience the earliest story in Link's quest in stunning HD with The Legend of Zelda: Skyward Sword HD for Nintendo Switch. Soar above the clouds and descend to the treacherous surface with Link as he embarks on an epic journey to save his childhood friend, Zelda. Your Joy-Con can function as your sword, while there's also a button-only control scheme for handheld mode or on Switch Lite.",
+            "customerRating": 4.29,
+            "customerRatingCount": 7,
+            "customerReviewCount": 7,
+            "productUrl": "/en-ca/product/the-legend-of-zelda-skyward-sword-hd-switch/15317230.aspx?",
+            "currentRegion": null,
+            "hideSavings": true,
+            "hideSaleEndDate": true,
+            "productType": null,
+            "regularPrice": 79.99,
+            "salePrice": 79.99,
+            "saleEndDate": null,
+            "thumbnailImage": "https://multimedia.bbycastatic.ca/multimedia/products/150x150/153/15317/15317230.jpg",
+            "primaryParentCategoryId": null,
+            "categoryName": "Nintendo Switch Games",
+            "ehf": 0,
+            "seoText": "the-legend-of-zelda-skyward-sword-hd-switch",
+            "sellerId": null,
+            "seller": null,
+            "highResImage": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/153/15317/15317230.jpg",
+            "altLangSeoText": null,
+            "offerId": null,
+            "priceUnit": "",
+            "requiresAgeVerification": false,
+            "isPriceEndsLabel": false,
+            "hasPromotion": false,
+            "isAdvertised": false,
+            "isClearance": false,
+            "isInStoreOnly": false,
+            "isOnlineOnly": false,
+            "isVisible": true,
+            "isPreorderable": false,
+            "isFrenchCompliant": true,
+            "isMarketplace": false,
+            "hasFrenchContent": false,
+            "categoryIds": [
+                "26516",
+                "621915",
+                "15303209",
+                "3457863"
+            ]
+        },
+        {
+            "sku": "15490826",
+            "name": "amiibo The Legend of Zelda - Zelda & Loftwing",
+            "shortDescription": "Embark on new adventures with your favorite Nintendo characters with this Zelda & Loftwing amiibo figure. This amiibo accessory adds a cool character and endless fun to your game. Tap the figure on the NFC touchpoint on a compatible system to score new characters, enjoy fun in-game extra features in compatible games on the Nintendo Switch.",
+            "customerRating": 4.33,
+            "customerRatingCount": 6,
+            "customerReviewCount": 6,
+            "productUrl": "/en-ca/product/amiibo-the-legend-of-zelda-zelda-loftwing/15490826.aspx?",
+            "currentRegion": null,
+            "hideSavings": true,
+            "hideSaleEndDate": true,
+            "productType": null,
+            "regularPrice": 29.99,
+            "salePrice": 29.99,
+            "saleEndDate": null,
+            "thumbnailImage": "https://multimedia.bbycastatic.ca/multimedia/products/150x150/154/15490/15490826.jpg",
+            "primaryParentCategoryId": null,
+            "categoryName": "Nintendo amiibo",
+            "ehf": 0,
+            "seoText": "amiibo-the-legend-of-zelda-zelda-loftwing",
+            "sellerId": null,
+            "seller": null,
+            "highResImage": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/154/15490/15490826.jpg",
+            "altLangSeoText": null,
+            "offerId": null,
+            "priceUnit": "",
+            "requiresAgeVerification": false,
+            "isPriceEndsLabel": false,
+            "hasPromotion": false,
+            "isAdvertised": false,
+            "isClearance": false,
+            "isInStoreOnly": false,
+            "isOnlineOnly": false,
+            "isVisible": true,
+            "isPreorderable": false,
+            "isFrenchCompliant": true,
+            "isMarketplace": false,
+            "hasFrenchContent": false,
+            "categoryIds": [
+                "26516",
+                "34419",
+                "306351"
+            ]
+        },
+        {
+            "sku": "15554504",
+            "name": "Nintendo Game & Watch: The Legend of Zelda System",
+            "shortDescription": "Relive a three classic titles in a cool, retro-throwback package with this Nintendo Game & Watch: The Legend of Zelda system. It includes The Legend of Zelda titles, including The Legend of Zelda, Zelda II: The Adventure of Link, and The Legend of Zelda: Link’s Awakening, plus Vermin, a Game & Watch classic title that stars Link, along with a playable clock and timer.",
+            "customerRating": 0,
+            "customerRatingCount": 0,
+            "customerReviewCount": 0,
+            "productUrl": "/en-ca/product/nintendo-game-watch-the-legend-of-zelda-system/15554504.aspx?",
+            "currentRegion": null,
+            "hideSavings": true,
+            "hideSaleEndDate": true,
+            "productType": null,
+            "regularPrice": 69.99,
+            "salePrice": 69.99,
+            "saleEndDate": null,
+            "thumbnailImage": "https://multimedia.bbycastatic.ca/multimedia/products/150x150/155/15554/15554504.jpg",
+            "primaryParentCategoryId": null,
+            "categoryName": "Retro Game Consoles",
+            "ehf": 0,
+            "seoText": "nintendo-game-watch-the-legend-of-zelda-system",
+            "sellerId": null,
+            "seller": null,
+            "highResImage": "https://multimedia.bbycastatic.ca/images/common/pictures/noimage1500x1500.jpg",
+            "altLangSeoText": null,
+            "offerId": null,
+            "priceUnit": "",
+            "requiresAgeVerification": false,
+            "isPriceEndsLabel": false,
+            "hasPromotion": false,
+            "isAdvertised": false,
+            "isClearance": false,
+            "isInStoreOnly": false,
+            "isOnlineOnly": false,
+            "isVisible": true,
+            "isPreorderable": true,
+            "isFrenchCompliant": true,
+            "isMarketplace": false,
+            "hasFrenchContent": false,
+            "categoryIds": [
+                "26516",
+                "34328",
+                "32287"
+            ]
+        },
+        {
+            "sku": "10440780",
+            "name": "The Legend of Zelda: Breath of the Wild (Switch)",
+            "shortDescription": "Experience the Kingdom of Hyrule like never before in The Legend of Zelda: Breath of the Wild for Nintendo Switch. After Link wakes up from a 100-year slumber, he must explore the land he no longer remembers, travel through the open-air world, collect weaponry for combat, and strive to regain his memories.",
+            "customerRating": 4.68,
+            "customerRatingCount": 41,
+            "customerReviewCount": 41,
+            "productUrl": "/en-ca/product/the-legend-of-zelda-breath-of-the-wild-switch/10440780.aspx?",
+            "currentRegion": null,
+            "hideSavings": true,
+            "hideSaleEndDate": true,
+            "productType": null,
+            "regularPrice": 79.99,
+            "salePrice": 79.99,
+            "saleEndDate": null,
+            "thumbnailImage": "https://multimedia.bbycastatic.ca/multimedia/products/150x150/104/10440/10440780.jpg",
+            "primaryParentCategoryId": null,
+            "categoryName": "Nintendo Switch Games",
+            "ehf": 0,
+            "seoText": "the-legend-of-zelda-breath-of-the-wild-switch",
+            "sellerId": null,
+            "seller": null,
+            "highResImage": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/104/10440/10440780.jpg",
+            "altLangSeoText": null,
+            "offerId": null,
+            "priceUnit": "",
+            "requiresAgeVerification": false,
+            "isPriceEndsLabel": false,
+            "hasPromotion": false,
+            "isAdvertised": false,
+            "isClearance": false,
+            "isInStoreOnly": false,
+            "isOnlineOnly": false,
+            "isVisible": true,
+            "isPreorderable": false,
+            "isFrenchCompliant": true,
+            "isMarketplace": false,
+            "hasFrenchContent": false,
+            "categoryIds": [
+                "26516",
+                "621915",
+                "15303209",
+                "3457863"
+            ]
+        },
+        {
+            "sku": "14801095",
+            "name": "RDS Zelda Travel Case Bundle for Nintendo Switch & Switch Lite",
+            "shortDescription": "Secure and organised, this Zelda travel case bundle from RDS offers easy portability and adjustable viewing for your Nintendo Switch or Nintendo Switch Lite. A pair of smaller storage cases fit neatly under the Switch to carry up to 4 game cards and 2 microSD cards. The included screen protector and soft cleaning cloth make it easy to keep the screen looking like new.",
+            "customerRating": 3.5,
+            "customerRatingCount": 2,
+            "customerReviewCount": 2,
+            "productUrl": "/en-ca/product/rds-zelda-travel-case-bundle-for-nintendo-switch-switch-lite/14801095.aspx?",
+            "currentRegion": null,
+            "hideSavings": true,
+            "hideSaleEndDate": true,
+            "productType": null,
+            "regularPrice": 29.99,
+            "salePrice": 29.99,
+            "saleEndDate": null,
+            "thumbnailImage": "https://multimedia.bbycastatic.ca/multimedia/products/150x150/148/14801/14801095.jpg",
+            "primaryParentCategoryId": null,
+            "categoryName": "Nintendo Switch Skins, Faceplates & Cases",
+            "ehf": 0,
+            "seoText": "rds-zelda-travel-case-bundle-for-nintendo-switch-switch-lite",
+            "sellerId": null,
+            "seller": null,
+            "highResImage": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/148/14801/14801095.jpg",
+            "altLangSeoText": null,
+            "offerId": null,
+            "priceUnit": "",
+            "requiresAgeVerification": false,
+            "isPriceEndsLabel": false,
+            "hasPromotion": false,
+            "isAdvertised": false,
+            "isClearance": false,
+            "isInStoreOnly": false,
+            "isOnlineOnly": false,
+            "isVisible": true,
+            "isPreorderable": false,
+            "isFrenchCompliant": true,
+            "isMarketplace": false,
+            "hasFrenchContent": false,
+            "categoryIds": [
+                "26516",
+                "621915",
+                "15303209",
+                "3458023",
+                "13274201"
+            ]
+        },
+        {
+            "sku": "13873733",
+            "name": "The Legend of Zelda: Link's Awakening (Switch) - Digital Download",
+            "shortDescription": "Go on an incredible journey with Link in The Legend of Zelda: Link's Awakening for Nintendo Switch. After Link washes ashore on a mysterious island, he must collect magical instruments across the land and awaken the Wind Fish. Along the way, he'll explore the island, meet its colourful inhabitants, collect treasure, and dodge monsters.",
+            "customerRating": 0,
+            "customerRatingCount": 0,
+            "customerReviewCount": 0,
+            "productUrl": "/en-ca/product/the-legend-of-zelda-link-s-awakening-switch-digital-download/13873733.aspx?",
+            "currentRegion": null,
+            "hideSavings": true,
+            "hideSaleEndDate": true,
+            "productType": null,
+            "regularPrice": 79.99,
+            "salePrice": 79.99,
+            "saleEndDate": null,
+            "thumbnailImage": "https://multimedia.bbycastatic.ca/multimedia/products/150x150/138/13873/13873733.jpg",
+            "primaryParentCategoryId": null,
+            "categoryName": "Nintendo Switch Games",
+            "ehf": 0,
+            "seoText": "the-legend-of-zelda-link-s-awakening-switch-digital-download",
+            "sellerId": null,
+            "seller": null,
+            "highResImage": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/138/13873/13873733.jpg",
+            "altLangSeoText": null,
+            "offerId": null,
+            "priceUnit": "",
+            "requiresAgeVerification": false,
+            "isPriceEndsLabel": false,
+            "hasPromotion": false,
+            "isAdvertised": false,
+            "isClearance": false,
+            "isInStoreOnly": false,
+            "isOnlineOnly": true,
+            "isVisible": true,
+            "isPreorderable": false,
+            "isFrenchCompliant": true,
+            "isMarketplace": false,
+            "hasFrenchContent": false,
+            "categoryIds": [
+                "26516",
+                "621915",
+                "15303209",
+                "3457863"
+            ]
+        },
+        {
+            "sku": "15305450",
+            "name": "PowerA Enhanced Legend of Zelda Wireless Controller for Switch - Gold/Black - Only at Best Buy",
+            "shortDescription": "An epic gaming accessory for any Zelda fan, this PowerA Enhanced Legend of Zelda wired controller features a sleek gold and black design. It comes with a detachable cable with plenty of room to move around while you play. It boasts a comfortable, ergonomic design and a standard button layout for effortless game play.",
+            "customerRating": 4.93,
+            "customerRatingCount": 30,
+            "customerReviewCount": 30,
+            "productUrl": "/en-ca/product/powera-enhanced-legend-of-zelda-wireless-controller-for-switch-gold-black-only-at-best-buy/15305450.aspx?",
+            "currentRegion": null,
+            "hideSavings": true,
+            "hideSaleEndDate": true,
+            "productType": null,
+            "regularPrice": 69.99,
+            "salePrice": 69.99,
+            "saleEndDate": null,
+            "thumbnailImage": "https://multimedia.bbycastatic.ca/multimedia/products/150x150/153/15305/15305450.jpg",
+            "primaryParentCategoryId": null,
+            "categoryName": "Nintendo Switch Controllers",
+            "ehf": 0,
+            "seoText": "powera-enhanced-legend-of-zelda-wireless-controller-for-switch-gold-black-only-at-best-buy",
+            "sellerId": null,
+            "seller": null,
+            "highResImage": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/153/15305/15305450.jpg",
+            "altLangSeoText": null,
+            "offerId": null,
+            "priceUnit": "",
+            "requiresAgeVerification": false,
+            "isPriceEndsLabel": false,
+            "hasPromotion": false,
+            "isAdvertised": false,
+            "isClearance": false,
+            "isInStoreOnly": false,
+            "isOnlineOnly": false,
+            "isVisible": true,
+            "isPreorderable": false,
+            "isFrenchCompliant": true,
+            "isMarketplace": false,
+            "hasFrenchContent": false,
+            "categoryIds": [
+                "26516",
+                "621915",
+                "15303209",
+                "3458023",
+                "13274190"
+            ]
+        },
+        {
+            "sku": "15375618",
+            "name": "The Legend of Zelda: Skyward Sword HD (Switch) - Digital Download",
+            "shortDescription": "Experience the earliest story in Link's quest in stunning HD with The Legend of Zelda: Skyward Sword HD for Nintendo Switch. Soar above the clouds and descend to the treacherous surface with Link as he embarks on an epic journey to save his childhood friend, Zelda. Your Joy-Con can function as your sword, while there's also a button-only control scheme for handheld mode or on Switch Lite.",
+            "customerRating": 0,
+            "customerRatingCount": 0,
+            "customerReviewCount": 0,
+            "productUrl": "/en-ca/product/the-legend-of-zelda-skyward-sword-hd-switch-digital-download/15375618.aspx?",
+            "currentRegion": null,
+            "hideSavings": true,
+            "hideSaleEndDate": true,
+            "productType": null,
+            "regularPrice": 79.99,
+            "salePrice": 79.99,
+            "saleEndDate": null,
+            "thumbnailImage": "https://multimedia.bbycastatic.ca/multimedia/products/150x150/153/15375/15375618.jpg",
+            "primaryParentCategoryId": null,
+            "categoryName": "Nintendo Switch Games",
+            "ehf": 0,
+            "seoText": "the-legend-of-zelda-skyward-sword-hd-switch-digital-download",
+            "sellerId": null,
+            "seller": null,
+            "highResImage": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/153/15375/15375618.jpg",
+            "altLangSeoText": null,
+            "offerId": null,
+            "priceUnit": "",
+            "requiresAgeVerification": false,
+            "isPriceEndsLabel": false,
+            "hasPromotion": false,
+            "isAdvertised": false,
+            "isClearance": false,
+            "isInStoreOnly": false,
+            "isOnlineOnly": true,
+            "isVisible": true,
+            "isPreorderable": false,
+            "isFrenchCompliant": true,
+            "isMarketplace": false,
+            "hasFrenchContent": false,
+            "categoryIds": [
+                "26516",
+                "621915",
+                "15303209",
+                "3457863"
+            ]
+        },
+        {
+            "sku": "15051697",
+            "name": "The Legend of Zelda: Breath of the Wild - Switch Edition",
+            "shortDescription": "No kingdom. No memories. After a 100-year slumber, Link wakes up alone in a world he no longer remembers. Now the legendary hero must explore a vast and dangerous land and regain his memories before Hyrule is lost forever. Armed only with what he can scavenge, Link sets out to find answers and the resources needed to survive. Supported play modes: TV mode, tabletop mode and handheld mode.",
+            "customerRating": 0,
+            "customerRatingCount": 0,
+            "customerReviewCount": 0,
+            "productUrl": "/en-ca/product/the-legend-of-zelda-breath-of-the-wild-switch-edition/15051697.aspx?",
+            "currentRegion": null,
+            "hideSavings": false,
+            "hideSaleEndDate": false,
+            "productType": null,
+            "regularPrice": 104.99,
+            "salePrice": 99.99,
+            "saleEndDate": 1628146799000,
+            "thumbnailImage": "https://multimedia.bbycastatic.ca/multimedia/products/150x150/150/15051/15051697.jpg",
+            "primaryParentCategoryId": null,
+            "categoryName": "Nintendo Switch Games",
+            "ehf": 0,
+            "seoText": "the-legend-of-zelda-breath-of-the-wild-switch-edition",
+            "sellerId": null,
+            "seller": {
+                "canSell": true,
+                "id": "391184",
+                "name": "Exooto Media"
+            },
+            "highResImage": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/150/15051/15051697.jpg",
+            "altLangSeoText": null,
+            "offerId": null,
+            "priceUnit": "",
+            "requiresAgeVerification": false,
+            "isPriceEndsLabel": false,
+            "hasPromotion": true,
+            "isAdvertised": false,
+            "isClearance": false,
+            "isInStoreOnly": false,
+            "isOnlineOnly": true,
+            "isVisible": true,
+            "isPreorderable": false,
+            "isFrenchCompliant": true,
+            "isMarketplace": true,
+            "hasFrenchContent": false,
+            "categoryIds": [
+                "26516",
+                "621915",
+                "15303209",
+                "3457863"
+            ]
+        },
+        {
+            "sku": "11792877",
+            "name": "The Legend of Zelda: Breath of the Wild (Switch) - Digital Download",
+            "shortDescription": "Experience the Kingdom of Hyrule like never before in The Legend of Zelda: Breath of the Wild for Nintendo Switch. After Link wakes up from a 100-year slumber, he must explore the land he no longer remembers, travel through the open-air world, collect weaponry for combat, and strive to regain his memories.",
+            "customerRating": 5,
+            "customerRatingCount": 1,
+            "customerReviewCount": 1,
+            "productUrl": "/en-ca/product/the-legend-of-zelda-breath-of-the-wild-switch-digital-download/11792877.aspx?",
+            "currentRegion": null,
+            "hideSavings": true,
+            "hideSaleEndDate": true,
+            "productType": null,
+            "regularPrice": 79.99,
+            "salePrice": 79.99,
+            "saleEndDate": null,
+            "thumbnailImage": "https://multimedia.bbycastatic.ca/multimedia/products/150x150/117/11792/11792877.jpg",
+            "primaryParentCategoryId": null,
+            "categoryName": "Nintendo Switch Games",
+            "ehf": 0,
+            "seoText": "the-legend-of-zelda-breath-of-the-wild-switch-digital-download",
+            "sellerId": null,
+            "seller": null,
+            "highResImage": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/117/11792/11792877.jpg",
+            "altLangSeoText": null,
+            "offerId": null,
+            "priceUnit": "",
+            "requiresAgeVerification": false,
+            "isPriceEndsLabel": false,
+            "hasPromotion": false,
+            "isAdvertised": false,
+            "isClearance": false,
+            "isInStoreOnly": false,
+            "isOnlineOnly": true,
+            "isVisible": true,
+            "isPreorderable": false,
+            "isFrenchCompliant": true,
+            "isMarketplace": false,
+            "hasFrenchContent": false,
+            "categoryIds": [
+                "26516",
+                "621915",
+                "15303209",
+                "3457863"
+            ]
+        },
+        {
+            "sku": "11792880",
+            "name": "The Legend of Zelda: Breath of the Wild Expansion Pass (Switch) - Digital Download",
+            "shortDescription": "Expand your Zelda experience on Nintendo Switch with this Legend of Zelda: Breath of the Wild Expansion Pass digital download. Extend your unforgettable adventure in Hyrule with access to 3 new treasure chests and 2 DLC packs.",
+            "customerRating": 4,
+            "customerRatingCount": 3,
+            "customerReviewCount": 3,
+            "productUrl": "/en-ca/product/the-legend-of-zelda-breath-of-the-wild-expansion-pass-switch-digital-download/11792880.aspx?",
+            "currentRegion": null,
+            "hideSavings": true,
+            "hideSaleEndDate": true,
+            "productType": null,
+            "regularPrice": 28.19,
+            "salePrice": 28.19,
+            "saleEndDate": null,
+            "thumbnailImage": "https://multimedia.bbycastatic.ca/multimedia/products/150x150/117/11792/11792880.jpg",
+            "primaryParentCategoryId": null,
+            "categoryName": "Nintendo Switch Games",
+            "ehf": 0,
+            "seoText": "the-legend-of-zelda-breath-of-the-wild-expansion-pass-switch-digital-download",
+            "sellerId": null,
+            "seller": null,
+            "highResImage": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/117/11792/11792880.jpg",
+            "altLangSeoText": null,
+            "offerId": null,
+            "priceUnit": "",
+            "requiresAgeVerification": false,
+            "isPriceEndsLabel": false,
+            "hasPromotion": false,
+            "isAdvertised": false,
+            "isClearance": false,
+            "isInStoreOnly": false,
+            "isOnlineOnly": true,
+            "isVisible": true,
+            "isPreorderable": false,
+            "isFrenchCompliant": true,
+            "isMarketplace": false,
+            "hasFrenchContent": false,
+            "categoryIds": [
+                "26516",
+                "621915",
+                "15303209",
+                "3457863"
+            ]
+        },
+        {
+            "sku": "15002236",
+            "name": "PowerA Protection Case Kit for Nintendo Switch - Legend of Zelda",
+            "shortDescription": "Take your Nintendo Switch on all your adventures with the PowerA Legend of Zelda protection case kit. This compact hard-shell case comes with an interior felt lining and a zippered mesh storage that perfectly fit the console in handheld mode. It includes a screen protector with applicator and cleaning cloth for added convenience.",
+            "customerRating": 4.88,
+            "customerRatingCount": 17,
+            "customerReviewCount": 17,
+            "productUrl": "/en-ca/product/powera-protection-case-kit-for-nintendo-switch-legend-of-zelda/15002236.aspx?",
+            "currentRegion": null,
+            "hideSavings": true,
+            "hideSaleEndDate": true,
+            "productType": null,
+            "regularPrice": 14.95,
+            "salePrice": 14.95,
+            "saleEndDate": null,
+            "thumbnailImage": "https://multimedia.bbycastatic.ca/multimedia/products/150x150/150/15002/15002236.jpg",
+            "primaryParentCategoryId": null,
+            "categoryName": "Nintendo Switch Skins, Faceplates & Cases",
+            "ehf": 0,
+            "seoText": "powera-protection-case-kit-for-nintendo-switch-legend-of-zelda",
+            "sellerId": null,
+            "seller": null,
+            "highResImage": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/150/15002/15002236.jpg",
+            "altLangSeoText": null,
+            "offerId": null,
+            "priceUnit": "",
+            "requiresAgeVerification": false,
+            "isPriceEndsLabel": false,
+            "hasPromotion": false,
+            "isAdvertised": false,
+            "isClearance": false,
+            "isInStoreOnly": false,
+            "isOnlineOnly": false,
+            "isVisible": true,
+            "isPreorderable": false,
+            "isFrenchCompliant": true,
+            "isMarketplace": false,
+            "hasFrenchContent": false,
+            "categoryIds": [
+                "26516",
+                "621915",
+                "15303209",
+                "3458023",
+                "13274201"
+            ]
+        },
+        {
+            "sku": "15158549",
+            "name": "Link (Skyward Sword) Amiibo - The Legend of Zelda Series [Nintendo Accessory]",
+            "shortDescription": "Link (Skyward Sword) Amiibo - The Legend of Zelda Series [Nintendo Accessory]",
+            "customerRating": 0,
+            "customerRatingCount": 0,
+            "customerReviewCount": 0,
+            "productUrl": "/en-ca/product/link-skyward-sword-amiibo-the-legend-of-zelda-series-nintendo-accessory/15158549.aspx?",
+            "currentRegion": null,
+            "hideSavings": true,
+            "hideSaleEndDate": true,
+            "productType": null,
+            "regularPrice": 96.29,
+            "salePrice": 96.29,
+            "saleEndDate": null,
+            "thumbnailImage": "https://multimedia.bbycastatic.ca/multimedia/products/150x150/151/15158/15158549.jpg",
+            "primaryParentCategoryId": null,
+            "categoryName": "Retro Gaming Accessories",
+            "ehf": 0,
+            "seoText": "link-skyward-sword-amiibo-the-legend-of-zelda-series-nintendo-accessory",
+            "sellerId": null,
+            "seller": {
+                "canSell": true,
+                "id": "602376",
+                "name": "Shazaar"
+            },
+            "highResImage": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/151/15158/15158549.jpg",
+            "altLangSeoText": null,
+            "offerId": null,
+            "priceUnit": "",
+            "requiresAgeVerification": false,
+            "isPriceEndsLabel": false,
+            "hasPromotion": false,
+            "isAdvertised": false,
+            "isClearance": false,
+            "isInStoreOnly": false,
+            "isOnlineOnly": true,
+            "isVisible": true,
+            "isPreorderable": false,
+            "isFrenchCompliant": true,
+            "isMarketplace": true,
+            "hasFrenchContent": false,
+            "categoryIds": [
+                "26516",
+                "34328",
+                "33958"
+            ]
+        },
+        {
+            "sku": "15129663",
+            "name": "PowerA Zelda Hylian Shield Enhanced Wired Controller for Switch - Black",
+            "shortDescription": "Jump into the action with the ergonomic comfort of this PowerA enhanced wired controller for Nintendo Switch. Featuring a Legend of Zelda-inspired design and a standard button layout, it comes with a detachable 10-foot USB cable and lets you play your favourite titles. The included hook-and-loop fastener strap reduces cable clutter when you're done playing.",
+            "customerRating": 4.41,
+            "customerRatingCount": 32,
+            "customerReviewCount": 32,
+            "productUrl": "/en-ca/product/powera-zelda-hylian-shield-enhanced-wired-controller-for-switch-black/15129663.aspx?",
+            "currentRegion": null,
+            "hideSavings": true,
+            "hideSaleEndDate": true,
+            "productType": null,
+            "regularPrice": 29.68,
+            "salePrice": 29.68,
+            "saleEndDate": null,
+            "thumbnailImage": "https://multimedia.bbycastatic.ca/multimedia/products/150x150/151/15129/15129663.jpg",
+            "primaryParentCategoryId": null,
+            "categoryName": "Nintendo Switch Controllers",
+            "ehf": 0,
+            "seoText": "powera-zelda-hylian-shield-enhanced-wired-controller-for-switch-black",
+            "sellerId": null,
+            "seller": null,
+            "highResImage": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/151/15129/15129663.jpg",
+            "altLangSeoText": null,
+            "offerId": null,
+            "priceUnit": "",
+            "requiresAgeVerification": false,
+            "isPriceEndsLabel": false,
+            "hasPromotion": false,
+            "isAdvertised": false,
+            "isClearance": false,
+            "isInStoreOnly": false,
+            "isOnlineOnly": true,
+            "isVisible": true,
+            "isPreorderable": false,
+            "isFrenchCompliant": true,
+            "isMarketplace": false,
+            "hasFrenchContent": false,
+            "categoryIds": [
+                "26516",
+                "621915",
+                "15303209",
+                "3458023",
+                "13274190"
+            ]
+        },
+        {
+            "sku": "15051679",
+            "name": "The Legend of Zelda: Links Awakening",
+            "shortDescription": "Link has washed ashore on a mysterious island with strange and colorful inhabitants. To escape the island, Link must collect magical instruments across the land and awaken the Wind Fish. Explore a reimagined Koholint Island that’s been faithfully rebuilt in a brand-new art style that will entice fans and newcomers alike. Battle enemies as you conquer numerous dungeons and uncover the hidden secrets of the island.",
+            "customerRating": 0,
+            "customerRatingCount": 0,
+            "customerReviewCount": 0,
+            "productUrl": "/en-ca/product/the-legend-of-zelda-links-awakening/15051679.aspx?",
+            "currentRegion": null,
+            "hideSavings": false,
+            "hideSaleEndDate": false,
+            "productType": null,
+            "regularPrice": 104.99,
+            "salePrice": 99.99,
+            "saleEndDate": 1628146799000,
+            "thumbnailImage": "https://multimedia.bbycastatic.ca/multimedia/products/150x150/150/15051/15051679.jpg",
+            "primaryParentCategoryId": null,
+            "categoryName": "Nintendo Switch Games",
+            "ehf": 0,
+            "seoText": "the-legend-of-zelda-links-awakening",
+            "sellerId": null,
+            "seller": {
+                "canSell": true,
+                "id": "391184",
+                "name": "Exooto Media"
+            },
+            "highResImage": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/150/15051/15051679.jpg",
+            "altLangSeoText": null,
+            "offerId": null,
+            "priceUnit": "",
+            "requiresAgeVerification": false,
+            "isPriceEndsLabel": false,
+            "hasPromotion": true,
+            "isAdvertised": false,
+            "isClearance": false,
+            "isInStoreOnly": false,
+            "isOnlineOnly": true,
+            "isVisible": true,
+            "isPreorderable": false,
+            "isFrenchCompliant": true,
+            "isMarketplace": true,
+            "hasFrenchContent": false,
+            "categoryIds": [
+                "26516",
+                "621915",
+                "15303209",
+                "3457863"
+            ]
+        },
+        {
+            "sku": "12290646",
+            "name": "Nintendo Selects: The Legend of Zelda: Majora's Mask (3DS) - Digital Download",
+            "shortDescription": "Experience one of Nintendo’s most suspenseful apocalyptic adventures ever in The Legend of Zelda: Majora's Mask on Nintendo 3DS. The land of Termina will meet with a terrible fate in 3 days when the moon falls. To save Termina you'll relive the world’s final 72 hours, solve elaborate puzzles, conquer dungeons, battle giant bosses, and more.",
+            "customerRating": 0,
+            "customerRatingCount": 0,
+            "customerReviewCount": 0,
+            "productUrl": "/en-ca/product/nintendo-selects-the-legend-of-zelda-majora-s-mask-3ds-digital-download/12290646.aspx?",
+            "currentRegion": null,
+            "hideSavings": true,
+            "hideSaleEndDate": true,
+            "productType": null,
+            "regularPrice": 44.99,
+            "salePrice": 44.99,
+            "saleEndDate": null,
+            "thumbnailImage": "https://multimedia.bbycastatic.ca/multimedia/products/150x150/122/12290/12290646.jpg",
+            "primaryParentCategoryId": null,
+            "categoryName": "Nintendo 3DS, 3DS XL & 2DS Games",
+            "ehf": 0,
+            "seoText": "nintendo-selects-the-legend-of-zelda-majora-s-mask-3ds-digital-download",
+            "sellerId": null,
+            "seller": null,
+            "highResImage": "https://multimedia.bbycastatic.ca/images/common/pictures/noimage1500x1500.jpg",
+            "altLangSeoText": null,
+            "offerId": null,
+            "priceUnit": "",
+            "requiresAgeVerification": false,
+            "isPriceEndsLabel": false,
+            "hasPromotion": false,
+            "isAdvertised": false,
+            "isClearance": false,
+            "isInStoreOnly": false,
+            "isOnlineOnly": true,
+            "isVisible": true,
+            "isPreorderable": false,
+            "isFrenchCompliant": true,
+            "isMarketplace": false,
+            "hasFrenchContent": false,
+            "categoryIds": [
+                "26516",
+                "621915",
+                "621901",
+                "30237"
+            ]
+        },
+        {
+            "sku": "13324159",
+            "name": "PowerA Core Plus Zelda Wired Controller for Switch - Black",
+            "shortDescription": "This PowerA Core Plus Breath of the Wild Edition wired controller is a must-have for any Zelda fan. It features iconic Link artwork and the legendary logo, as well as comfortable soft-touch rubber grips and six interchangeable analog caps so you can customize your gaming experience.",
+            "customerRating": 4.42,
+            "customerRatingCount": 1188,
+            "customerReviewCount": 1188,
+            "productUrl": "/en-ca/product/powera-core-plus-zelda-wired-controller-for-switch-black/13324159.aspx?",
+            "currentRegion": null,
+            "hideSavings": true,
+            "hideSaleEndDate": true,
+            "productType": null,
+            "regularPrice": 32.99,
+            "salePrice": 32.99,
+            "saleEndDate": null,
+            "thumbnailImage": "https://multimedia.bbycastatic.ca/multimedia/products/150x150/133/13324/13324159.jpg",
+            "primaryParentCategoryId": null,
+            "categoryName": "Nintendo Switch Controllers",
+            "ehf": 0,
+            "seoText": "powera-core-plus-zelda-wired-controller-for-switch-black",
+            "sellerId": null,
+            "seller": null,
+            "highResImage": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/133/13324/13324159.jpg",
+            "altLangSeoText": null,
+            "offerId": null,
+            "priceUnit": "",
+            "requiresAgeVerification": false,
+            "isPriceEndsLabel": false,
+            "hasPromotion": false,
+            "isAdvertised": false,
+            "isClearance": false,
+            "isInStoreOnly": false,
+            "isOnlineOnly": true,
+            "isVisible": true,
+            "isPreorderable": false,
+            "isFrenchCompliant": true,
+            "isMarketplace": false,
+            "hasFrenchContent": false,
+            "categoryIds": [
+                "26516",
+                "621915",
+                "15303209",
+                "3458023",
+                "13274190"
+            ]
+        },
+        {
+            "sku": "15147772",
+            "name": "PowerA Enhanced Wireless Controller for Switch - Zelda Midnight Ride",
+            "shortDescription": "Game like a pro with this PowerA Enhanced wireless controller for Nintendo Switch. Featuring Legend of Zelda-inspired art, it features motion controls and mappable advanced gaming buttons to give you the advantage. Bluetooth 5.0 technology and an internal rechargeable battery ensure up to 30 hours of wireless gaming on a charge, with an included charging cable so you can power back up.",
+            "customerRating": 4.9,
+            "customerRatingCount": 31,
+            "customerReviewCount": 31,
+            "productUrl": "/en-ca/product/powera-enhanced-wireless-controller-for-switch-zelda-midnight-ride/15147772.aspx?",
+            "currentRegion": null,
+            "hideSavings": true,
+            "hideSaleEndDate": true,
+            "productType": null,
+            "regularPrice": 69.99,
+            "salePrice": 69.99,
+            "saleEndDate": null,
+            "thumbnailImage": "https://multimedia.bbycastatic.ca/multimedia/products/150x150/151/15147/15147772.jpg",
+            "primaryParentCategoryId": null,
+            "categoryName": "Nintendo Switch Controllers",
+            "ehf": 0,
+            "seoText": "powera-enhanced-wireless-controller-for-switch-zelda-midnight-ride",
+            "sellerId": null,
+            "seller": null,
+            "highResImage": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/151/15147/15147772.jpg",
+            "altLangSeoText": null,
+            "offerId": null,
+            "priceUnit": "",
+            "requiresAgeVerification": false,
+            "isPriceEndsLabel": false,
+            "hasPromotion": false,
+            "isAdvertised": false,
+            "isClearance": false,
+            "isInStoreOnly": false,
+            "isOnlineOnly": true,
+            "isVisible": true,
+            "isPreorderable": false,
+            "isFrenchCompliant": true,
+            "isMarketplace": false,
+            "hasFrenchContent": false,
+            "categoryIds": [
+                "26516",
+                "621915",
+                "15303209",
+                "3458023",
+                "13274190"
+            ]
+        },
+        {
+            "sku": "15202004",
+            "name": "The Legend of Zelda: Breath of the Wild with Expansion Pass (Switch) - Digital Download",
+            "shortDescription": "Experience the Kingdom of Hyrule like never before in The Legend of Zelda: Breath of the Wild for Nintendo Switch. After Link wakes from a 100-year slumber, he explores a land he no longer remembers and travels through the open-air world as he strives to regain his memories. With the included Expansion Pass, extend your adventure with access to 3 new treasure chests and 2 DLC packs.",
+            "customerRating": 0,
+            "customerRatingCount": 0,
+            "customerReviewCount": 0,
+            "productUrl": "/en-ca/product/the-legend-of-zelda-breath-of-the-wild-with-expansion-pass-switch-digital-download/15202004.aspx?",
+            "currentRegion": null,
+            "hideSavings": true,
+            "hideSaleEndDate": true,
+            "productType": null,
+            "regularPrice": 108.18,
+            "salePrice": 108.18,
+            "saleEndDate": null,
+            "thumbnailImage": "https://multimedia.bbycastatic.ca/multimedia/products/150x150/152/15202/15202004.jpg",
+            "primaryParentCategoryId": null,
+            "categoryName": "Nintendo Switch Games",
+            "ehf": 0,
+            "seoText": "the-legend-of-zelda-breath-of-the-wild-with-expansion-pass-switch-digital-download",
+            "sellerId": null,
+            "seller": null,
+            "highResImage": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/152/15202/15202004.jpg",
+            "altLangSeoText": null,
+            "offerId": null,
+            "priceUnit": "",
+            "requiresAgeVerification": false,
+            "isPriceEndsLabel": false,
+            "hasPromotion": false,
+            "isAdvertised": false,
+            "isClearance": false,
+            "isInStoreOnly": false,
+            "isOnlineOnly": true,
+            "isVisible": true,
+            "isPreorderable": false,
+            "isFrenchCompliant": true,
+            "isMarketplace": false,
+            "hasFrenchContent": false,
+            "categoryIds": [
+                "26516",
+                "621915",
+                "15303209",
+                "3457863"
+            ]
+        },
+        {
+            "sku": "14876151",
+            "name": "Nintendo 2DS Console - Kokiri Green Link Edition - Includes The Legend of Zelda: Ocarina of Time 3D",
+            "shortDescription": "Nintendo 2DS Console - Kokiri Green Link Edition - Includes The Legend of Zelda: Ocarina of Time 3D [Nintendo 2DS System}",
+            "customerRating": 4.83,
+            "customerRatingCount": 124,
+            "customerReviewCount": 124,
+            "productUrl": "/en-ca/product/nintendo-2ds-console-kokiri-green-link-edition-includes-the-legend-of-zelda-ocarina-of-time-3d/14876151.aspx?",
+            "currentRegion": null,
+            "hideSavings": true,
+            "hideSaleEndDate": true,
+            "productType": null,
+            "regularPrice": 342.39,
+            "salePrice": 342.39,
+            "saleEndDate": null,
+            "thumbnailImage": "https://multimedia.bbycastatic.ca/multimedia/products/150x150/148/14876/14876151.jpg",
+            "primaryParentCategoryId": null,
+            "categoryName": "Nintendo DS Consoles",
+            "ehf": 0,
+            "seoText": "nintendo-2ds-console-kokiri-green-link-edition-includes-the-legend-of-zelda-ocarina-of-time-3d",
+            "sellerId": null,
+            "seller": {
+                "canSell": true,
+                "id": "602376",
+                "name": "Shazaar"
+            },
+            "highResImage": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/148/14876/14876151.jpg",
+            "altLangSeoText": null,
+            "offerId": null,
+            "priceUnit": "",
+            "requiresAgeVerification": false,
+            "isPriceEndsLabel": false,
+            "hasPromotion": false,
+            "isAdvertised": false,
+            "isClearance": false,
+            "isInStoreOnly": false,
+            "isOnlineOnly": true,
+            "isVisible": true,
+            "isPreorderable": false,
+            "isFrenchCompliant": true,
+            "isMarketplace": true,
+            "hasFrenchContent": false,
+            "categoryIds": [
+                "26516",
+                "621915",
+                "621901",
+                "22030"
+            ]
+        },
+        {
+            "sku": "15158603",
+            "name": "Urbosa + Revali + Mipha + Daruk : Champions Amiibo 4-Pack - The Legend of Zelda: Breath of the Wild [Nintendo Accessory]",
+            "shortDescription": "Urbosa + Revali + Mipha + Daruk : Champions Amiibo 4-Pack - The Legend of Zelda: Breath of the Wild [Nintendo Accessory]",
+            "customerRating": 0,
+            "customerRatingCount": 0,
+            "customerReviewCount": 0,
+            "productUrl": "/en-ca/product/urbosa-revali-mipha-daruk-champions-amiibo-4-pack-the-legend-of-zelda-breath-of-the-wild-nintendo-accessory/15158603.aspx?",
+            "currentRegion": null,
+            "hideSavings": false,
+            "hideSaleEndDate": false,
+            "productType": null,
+            "regularPrice": 183.98,
+            "salePrice": 141.39,
+            "saleEndDate": 1630479599000,
+            "thumbnailImage": "https://multimedia.bbycastatic.ca/multimedia/products/150x150/151/15158/15158603.jpg",
+            "primaryParentCategoryId": null,
+            "categoryName": "Retro Gaming Accessories",
+            "ehf": 0,
+            "seoText": "urbosa-revali-mipha-daruk-champions-amiibo-4-pack-the-legend-of-zelda-breath-of-the-wild-nintendo-accessory",
+            "sellerId": null,
+            "seller": {
+                "canSell": true,
+                "id": "425178",
+                "name": "Springfield Distribution"
+            },
+            "highResImage": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/151/15158/15158603.jpg",
+            "altLangSeoText": null,
+            "offerId": null,
+            "priceUnit": "",
+            "requiresAgeVerification": false,
+            "isPriceEndsLabel": false,
+            "hasPromotion": true,
+            "isAdvertised": false,
+            "isClearance": false,
+            "isInStoreOnly": false,
+            "isOnlineOnly": true,
+            "isVisible": true,
+            "isPreorderable": false,
+            "isFrenchCompliant": false,
+            "isMarketplace": true,
+            "hasFrenchContent": false,
+            "categoryIds": [
+                "26516",
+                "34328",
+                "33958"
+            ]
+        },
+        {
+            "sku": "14512522",
+            "name": "Nintendo Switch USB-C Wireless HORIPAD (Zelda) By HORI",
+            "shortDescription": "The built-in rechargeable lithium-ion battery and Bluetooth wireless technology gives you freedom with a 32-foot range and 15-plus hours of battery life. Lightweight yet solid, the snappy and responsive wireless HORIPAD is equipped with an accelerometer and gyroscope for full motion control, making it the go-to choice for Nintendo Switch gamers. Charges with included USB-C cable.",
+            "customerRating": 0,
+            "customerRatingCount": 0,
+            "customerReviewCount": 0,
+            "productUrl": "/en-ca/product/nintendo-switch-usb-c-wireless-horipad-zelda-by-hori/14512522.aspx?",
+            "currentRegion": null,
+            "hideSavings": false,
+            "hideSaleEndDate": false,
+            "productType": null,
+            "regularPrice": 89.99,
+            "salePrice": 79.99,
+            "saleEndDate": 1628146799000,
+            "thumbnailImage": "https://multimedia.bbycastatic.ca/multimedia/products/150x150/145/14512/14512522.jpg",
+            "primaryParentCategoryId": null,
+            "categoryName": "Nintendo Switch Controllers",
+            "ehf": 0,
+            "seoText": "nintendo-switch-usb-c-wireless-horipad-zelda-by-hori",
+            "sellerId": null,
+            "seller": {
+                "canSell": true,
+                "id": "391184",
+                "name": "Exooto Media"
+            },
+            "highResImage": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/145/14512/14512522.jpg",
+            "altLangSeoText": null,
+            "offerId": null,
+            "priceUnit": "",
+            "requiresAgeVerification": false,
+            "isPriceEndsLabel": false,
+            "hasPromotion": true,
+            "isAdvertised": false,
+            "isClearance": false,
+            "isInStoreOnly": false,
+            "isOnlineOnly": true,
+            "isVisible": true,
+            "isPreorderable": false,
+            "isFrenchCompliant": true,
+            "isMarketplace": true,
+            "hasFrenchContent": false,
+            "categoryIds": [
+                "26516",
+                "621915",
+                "15303209",
+                "3458023",
+                "13274190"
+            ]
+        }
+    ],
+    "paths": [
+        {
+            "name": "zelda",
+            "value": "",
+            "selectPath": "",
+            "unselectPath": "",
+            "type": "Query"
+        }
+    ],
+    "facets": [
+        {
+            "name": "Current Offers",
+            "systemName": "currentoffers0enrchstring",
+            "count": 6,
+            "filters": [
+                {
+                    "name": "On Sale",
+                    "path": "currentoffers0enrchstring%3AOn+Sale",
+                    "count": 55,
+                    "isSelected": false
+                },
+                {
+                    "name": "Top Deals",
+                    "path": "currentoffers0enrchstring%3ATop+Deals",
+                    "count": 5,
+                    "isSelected": false
+                },
+                {
+                    "name": "On Clearance",
+                    "path": "currentoffers0enrchstring%3AOn+Clearance",
+                    "count": 1,
+                    "isSelected": false
+                },
+                {
+                    "name": "Best Buy Exclusive",
+                    "path": "currentoffers0enrchstring%3ABest+Buy+Exclusive",
+                    "count": 1,
+                    "isSelected": false
+                },
+                {
+                    "name": "Open Box",
+                    "path": "currentoffers0enrchstring%3AOpen+Box",
+                    "count": 6,
+                    "isSelected": false
+                },
+                {
+                    "name": "Online Only",
+                    "path": "currentoffers0enrchstring%3AOnline+Only",
+                    "count": 99,
+                    "isSelected": false
+                }
+            ],
+            "isMultiSelect": true,
+            "order": 0
+        },
+        {
+            "name": "Sold & Shipped By",
+            "systemName": "soldandshippedby0enrchstring",
+            "count": 2,
+            "filters": [
+                {
+                    "name": "Best Buy",
+                    "path": "soldandshippedby0enrchstring%3ABest+Buy",
+                    "count": 48,
+                    "isSelected": false
+                },
+                {
+                    "name": "Marketplace Seller",
+                    "path": "soldandshippedby0enrchstring%3AMarketplace+Seller",
+                    "count": 78,
+                    "isSelected": false
+                }
+            ],
+            "isMultiSelect": true,
+            "order": 1
+        },
+        {
+            "name": "Discount",
+            "systemName": "discount0enrchstring",
+            "count": 6,
+            "filters": [
+                {
+                    "name": "60% Off or More",
+                    "path": "discount0enrchstring%3A60%25+Off+or+More",
+                    "count": 4,
+                    "isSelected": false
+                },
+                {
+                    "name": "50% Off or More",
+                    "path": "discount0enrchstring%3A50%25+Off+or+More",
+                    "count": 10,
+                    "isSelected": false
+                },
+                {
+                    "name": "40% Off or More",
+                    "path": "discount0enrchstring%3A40%25+Off+or+More",
+                    "count": 16,
+                    "isSelected": false
+                },
+                {
+                    "name": "30% Off or More",
+                    "path": "discount0enrchstring%3A30%25+Off+or+More",
+                    "count": 26,
+                    "isSelected": false
+                },
+                {
+                    "name": "20% Off or More",
+                    "path": "discount0enrchstring%3A20%25+Off+or+More",
+                    "count": 37,
+                    "isSelected": false
+                },
+                {
+                    "name": "All Discounted Items",
+                    "path": "discount0enrchstring%3AAll+Discounted+Items",
+                    "count": 55,
+                    "isSelected": false
+                }
+            ],
+            "isMultiSelect": true,
+            "order": 2
+        },
+        {
+            "name": "Status",
+            "systemName": "status0enrchstring",
+            "count": 2,
+            "filters": [
+                {
+                    "name": "Whats New",
+                    "path": "status0enrchstring%3AWhats+New",
+                    "count": 40,
+                    "isSelected": false
+                },
+                {
+                    "name": "Preorder",
+                    "path": "status0enrchstring%3APreorder",
+                    "count": 1,
+                    "isSelected": false
+                }
+            ],
+            "isMultiSelect": true,
+            "order": 3
+        },
+        {
+            "name": "Price",
+            "systemName": "pricerangegames",
+            "count": 6,
+            "filters": [
+                {
+                    "name": "Less than $10",
+                    "path": "pricerangegames%3ALess+than+%2410",
+                    "count": 4,
+                    "isSelected": false
+                },
+                {
+                    "name": "$10 - $19.99",
+                    "path": "pricerangegames%3A%2410+-+%2419.99",
+                    "count": 10,
+                    "isSelected": false
+                },
+                {
+                    "name": "$20 - $29.99",
+                    "path": "pricerangegames%3A%2420+-+%2429.99",
+                    "count": 20,
+                    "isSelected": false
+                },
+                {
+                    "name": "$30 - $49.99",
+                    "path": "pricerangegames%3A%2430+-+%2449.99",
+                    "count": 41,
+                    "isSelected": false
+                },
+                {
+                    "name": "$50 - $99.99",
+                    "path": "pricerangegames%3A%2450+-+%2499.99",
+                    "count": 32,
+                    "isSelected": false
+                },
+                {
+                    "name": "$100 & Up",
+                    "path": "pricerangegames%3A%24100+%26+Up",
+                    "count": 19,
+                    "isSelected": false
+                }
+            ],
+            "isMultiSelect": true,
+            "order": 4
+        },
+        {
+            "name": "Brands",
+            "systemName": "brandName",
+            "count": 38,
+            "filters": [
+                {
+                    "name": "NINTENDO",
+                    "path": "brandName%3ANINTENDO",
+                    "count": 51,
+                    "isSelected": false
+                },
+                {
+                    "name": "NINTENDO SWITCH",
+                    "path": "brandName%3ANINTENDO+SWITCH",
+                    "count": 1,
+                    "isSelected": false
+                },
+                {
+                    "name": "NINTENDO 3DS",
+                    "path": "brandName%3ANINTENDO+3DS",
+                    "count": 1,
+                    "isSelected": false
+                },
+                {
+                    "name": "PLAYSTATION",
+                    "path": "brandName%3APLAYSTATION",
+                    "count": 1,
+                    "isSelected": false
+                },
+                {
+                    "name": "AMIIBO",
+                    "path": "brandName%3AAMIIBO",
+                    "count": 1,
+                    "isSelected": false
+                },
+                {
+                    "name": "COLLECTIVE MINDS",
+                    "path": "brandName%3ACOLLECTIVE+MINDS",
+                    "count": 1,
+                    "isSelected": false
+                },
+                {
+                    "name": "HOCO",
+                    "path": "brandName%3AHOCO",
+                    "count": 8,
+                    "isSelected": false
+                },
+                {
+                    "name": "TIMOOM",
+                    "path": "brandName%3ATIMOOM",
+                    "count": 8,
+                    "isSelected": false
+                },
+                {
+                    "name": "HLD",
+                    "path": "brandName%3AHLD",
+                    "count": 4,
+                    "isSelected": false
+                },
+                {
+                    "name": "LITTLE BUDDY TOYS",
+                    "path": "brandName%3ALITTLE+BUDDY+TOYS",
+                    "count": 4,
+                    "isSelected": false
+                },
+                {
+                    "name": "POWER A",
+                    "path": "brandName%3APOWER+A",
+                    "count": 4,
+                    "isSelected": false
+                },
+                {
+                    "name": "AXGEAR",
+                    "path": "brandName%3AAXGEAR",
+                    "count": 3,
+                    "isSelected": false
+                },
+                {
+                    "name": "ESOURCE PARTS",
+                    "path": "brandName%3AESOURCE+PARTS",
+                    "count": 3,
+                    "isSelected": false
+                },
+                {
+                    "name": "ZELDA",
+                    "path": "brandName%3AZELDA",
+                    "count": 3,
+                    "isSelected": false
+                },
+                {
+                    "name": "GRANITE",
+                    "path": "brandName%3AGRANITE",
+                    "count": 2,
+                    "isSelected": false
+                },
+                {
+                    "name": "HASHTAG COLLECTIBLES",
+                    "path": "brandName%3AHASHTAG+COLLECTIBLES",
+                    "count": 2,
+                    "isSelected": false
+                },
+                {
+                    "name": "HORI",
+                    "path": "brandName%3AHORI",
+                    "count": 2,
+                    "isSelected": false
+                },
+                {
+                    "name": "SEFITOPHER",
+                    "path": "brandName%3ASEFITOPHER",
+                    "count": 2,
+                    "isSelected": false
+                },
+                {
+                    "name": "SHOPVILLE",
+                    "path": "brandName%3ASHOPVILLE",
+                    "count": 2,
+                    "isSelected": false
+                },
+                {
+                    "name": "USAOPOLY",
+                    "path": "brandName%3AUSAOPOLY",
+                    "count": 2,
+                    "isSelected": false
+                },
+                {
+                    "name": "ALFRED MUSIC",
+                    "path": "brandName%3AALFRED+MUSIC",
+                    "count": 1,
+                    "isSelected": false
+                },
+                {
+                    "name": "ASTRO",
+                    "path": "brandName%3AASTRO",
+                    "count": 1,
+                    "isSelected": false
+                },
+                {
+                    "name": "BEBONCOOL",
+                    "path": "brandName%3ABEBONCOOL",
+                    "count": 1,
+                    "isSelected": false
+                },
+                {
+                    "name": "BIGAINT",
+                    "path": "brandName%3ABIGAINT",
+                    "count": 1,
+                    "isSelected": false
+                },
+                {
+                    "name": "CONTROLLER GEAR",
+                    "path": "brandName%3ACONTROLLER+GEAR",
+                    "count": 1,
+                    "isSelected": false
+                },
+                {
+                    "name": "ESAVERSPLUS GAMING",
+                    "path": "brandName%3AESAVERSPLUS+GAMING",
+                    "count": 1,
+                    "isSelected": false
+                },
+                {
+                    "name": "HAOSIHD",
+                    "path": "brandName%3AHAOSIHD",
+                    "count": 1,
+                    "isSelected": false
+                },
+                {
+                    "name": "JIAXIA",
+                    "path": "brandName%3AJIAXIA",
+                    "count": 1,
+                    "isSelected": false
+                },
+                {
+                    "name": "LITTLE BUDDY",
+                    "path": "brandName%3ALITTLE+BUDDY",
+                    "count": 1,
+                    "isSelected": false
+                },
+                {
+                    "name": "MACTROTOWN",
+                    "path": "brandName%3AMACTROTOWN",
+                    "count": 1,
+                    "isSelected": false
+                },
+                {
+                    "name": "POWERA",
+                    "path": "brandName%3APOWERA",
+                    "count": 1,
+                    "isSelected": false
+                },
+                {
+                    "name": "RDS",
+                    "path": "brandName%3ARDS",
+                    "count": 1,
+                    "isSelected": false
+                },
+                {
+                    "name": "RDS INDUSTRIES",
+                    "path": "brandName%3ARDS+INDUSTRIES",
+                    "count": 1,
+                    "isSelected": false
+                },
+                {
+                    "name": "SAMA",
+                    "path": "brandName%3ASAMA",
+                    "count": 1,
+                    "isSelected": false
+                },
+                {
+                    "name": "SURGE",
+                    "path": "brandName%3ASURGE",
+                    "count": 1,
+                    "isSelected": false
+                },
+                {
+                    "name": "TOM FORD",
+                    "path": "brandName%3ATOM+FORD",
+                    "count": 1,
+                    "isSelected": false
+                },
+                {
+                    "name": "TONSUM",
+                    "path": "brandName%3ATONSUM",
+                    "count": 1,
+                    "isSelected": false
+                },
+                {
+                    "name": "TRADEOPIA CORP.",
+                    "path": "brandName%3ATRADEOPIA+CORP.",
+                    "count": 1,
+                    "isSelected": false
+                }
+            ],
+            "isMultiSelect": true,
+            "order": 5
+        },
+        {
+            "name": "ESRB Rating",
+            "systemName": "esrb0enrchstring",
+            "count": 4,
+            "filters": [
+                {
+                    "name": "Everyone",
+                    "path": "esrb0enrchstring%3AEveryone",
+                    "count": 28,
+                    "isSelected": false
+                },
+                {
+                    "name": "Everyone 10+",
+                    "path": "esrb0enrchstring%3AEveryone+10%2B",
+                    "count": 8,
+                    "isSelected": false
+                },
+                {
+                    "name": "Rating Pending",
+                    "path": "esrb0enrchstring%3ARating+Pending",
+                    "count": 7,
+                    "isSelected": false
+                },
+                {
+                    "name": "Teen",
+                    "path": "esrb0enrchstring%3ATeen",
+                    "count": 7,
+                    "isSelected": false
+                }
+            ],
+            "isMultiSelect": true,
+            "order": 6
+        },
+        {
+            "name": "New Release",
+            "systemName": "newreleaseweekly0enrchstring",
+            "count": 1,
+            "filters": [
+                {
+                    "name": "July 13, 2021 - July 19, 2021",
+                    "path": "newreleaseweekly0enrchstring%3AJuly+13%2C+2021+-+July+19%2C+2021",
+                    "count": 4,
+                    "isSelected": false
+                }
+            ],
+            "isMultiSelect": true,
+            "order": 7
+        },
+        {
+            "name": "Coming Soon",
+            "systemName": "comingsoonweekly0enrchstring",
+            "count": 1,
+            "filters": [
+                {
+                    "name": "Other Future Releases",
+                    "path": "comingsoonweekly0enrchstring%3AOther+Future+Releases",
+                    "count": 1,
+                    "isSelected": false
+                }
+            ],
+            "isMultiSelect": true,
+            "order": 8
+        },
+        {
+            "name": "Genre",
+            "systemName": "gamegenre0enrchstring",
+            "count": 7,
+            "filters": [
+                {
+                    "name": "RPG & Strategy",
+                    "path": "gamegenre0enrchstring%3ARPG+%26+Strategy",
+                    "count": 15,
+                    "isSelected": false
+                },
+                {
+                    "name": "Action",
+                    "path": "gamegenre0enrchstring%3AAction",
+                    "count": 6,
+                    "isSelected": false
+                },
+                {
+                    "name": "Miscellaneous",
+                    "path": "gamegenre0enrchstring%3AMiscellaneous",
+                    "count": 3,
+                    "isSelected": false
+                },
+                {
+                    "name": "Music & Dance",
+                    "path": "gamegenre0enrchstring%3AMusic+%26+Dance",
+                    "count": 2,
+                    "isSelected": false
+                },
+                {
+                    "name": "Family",
+                    "path": "gamegenre0enrchstring%3AFamily",
+                    "count": 1,
+                    "isSelected": false
+                },
+                {
+                    "name": "Fighting",
+                    "path": "gamegenre0enrchstring%3AFighting",
+                    "count": 1,
+                    "isSelected": false
+                },
+                {
+                    "name": "Sports & Racing",
+                    "path": "gamegenre0enrchstring%3ASports+%26+Racing",
+                    "count": 1,
+                    "isSelected": false
+                }
+            ],
+            "isMultiSelect": true,
+            "order": 9
+        },
+        {
+            "name": "Sellers",
+            "systemName": "sellerName",
+            "count": 23,
+            "filters": [
+                {
+                    "name": "BestBuyCanada",
+                    "path": "sellerName%3ABestBuyCanada",
+                    "count": 48,
+                    "isSelected": false
+                },
+                {
+                    "name": "AVENGERS",
+                    "path": "sellerName%3AAVENGERS",
+                    "count": 10,
+                    "isSelected": false
+                },
+                {
+                    "name": "Shazaar",
+                    "path": "sellerName%3AShazaar",
+                    "count": 8,
+                    "isSelected": false
+                },
+                {
+                    "name": "HOCO",
+                    "path": "sellerName%3AHOCO",
+                    "count": 7,
+                    "isSelected": false
+                },
+                {
+                    "name": "Brands World",
+                    "path": "sellerName%3ABrands+World",
+                    "count": 6,
+                    "isSelected": false
+                },
+                {
+                    "name": "Just 4 Games Inc.",
+                    "path": "sellerName%3AJust+4+Games+Inc.",
+                    "count": 6,
+                    "isSelected": false
+                },
+                {
+                    "name": "Springfield Distribution",
+                    "path": "sellerName%3ASpringfield+Distribution",
+                    "count": 6,
+                    "isSelected": false
+                },
+                {
+                    "name": "Exooto Media",
+                    "path": "sellerName%3AExooto+Media",
+                    "count": 5,
+                    "isSelected": false
+                },
+                {
+                    "name": "Navor Canada",
+                    "path": "sellerName%3ANavor+Canada",
+                    "count": 4,
+                    "isSelected": false
+                },
+                {
+                    "name": "Esource Parts",
+                    "path": "sellerName%3AEsource+Parts",
+                    "count": 3,
+                    "isSelected": false
+                },
+                {
+                    "name": "Green Net FREE Shipping",
+                    "path": "sellerName%3AGreen+Net+FREE+Shipping",
+                    "count": 3,
+                    "isSelected": false
+                },
+                {
+                    "name": "JADD Entertainment",
+                    "path": "sellerName%3AJADD+Entertainment",
+                    "count": 3,
+                    "isSelected": false
+                },
+                {
+                    "name": "Cmdstore",
+                    "path": "sellerName%3ACmdstore",
+                    "count": 2,
+                    "isSelected": false
+                },
+                {
+                    "name": "Mind Games",
+                    "path": "sellerName%3AMind+Games",
+                    "count": 2,
+                    "isSelected": false
+                },
+                {
+                    "name": "PRO OB",
+                    "path": "sellerName%3APRO+OB",
+                    "count": 2,
+                    "isSelected": false
+                },
+                {
+                    "name": "Tech Zone",
+                    "path": "sellerName%3ATech+Zone",
+                    "count": 2,
+                    "isSelected": false
+                },
+                {
+                    "name": "Toy Sales",
+                    "path": "sellerName%3AToy+Sales",
+                    "count": 2,
+                    "isSelected": false
+                },
+                {
+                    "name": "YUANPINJI",
+                    "path": "sellerName%3AYUANPINJI",
+                    "count": 2,
+                    "isSelected": false
+                },
+                {
+                    "name": "Cosmo Music - The Musical Instrument Superstore",
+                    "path": "sellerName%3ACosmo+Music+-+The+Musical+Instrument+Superstore",
+                    "count": 1,
+                    "isSelected": false
+                },
+                {
+                    "name": "Home of Dealz",
+                    "path": "sellerName%3AHome+of+Dealz",
+                    "count": 1,
+                    "isSelected": false
+                },
+                {
+                    "name": "PROXXI STORE",
+                    "path": "sellerName%3APROXXI+STORE",
+                    "count": 1,
+                    "isSelected": false
+                },
+                {
+                    "name": "Panda Canada",
+                    "path": "sellerName%3APanda+Canada",
+                    "count": 1,
+                    "isSelected": false
+                },
+                {
+                    "name": "ScentedMonkey",
+                    "path": "sellerName%3AScentedMonkey",
+                    "count": 1,
+                    "isSelected": false
+                }
+            ],
+            "isMultiSelect": true,
+            "order": 10
+        },
+        {
+            "name": "Customer Rating",
+            "systemName": "averageoveralluserrating0enrchrange",
+            "count": 5,
+            "filters": [
+                {
+                    "name": "5",
+                    "path": "averageoveralluserrating0enrchrange%3A5",
+                    "count": 4,
+                    "isSelected": false
+                },
+                {
+                    "name": "4",
+                    "path": "averageoveralluserrating0enrchrange%3A4",
+                    "count": 26,
+                    "isSelected": false
+                },
+                {
+                    "name": "3",
+                    "path": "averageoveralluserrating0enrchrange%3A3",
+                    "count": 3,
+                    "isSelected": false
+                },
+                {
+                    "name": "2",
+                    "path": "averageoveralluserrating0enrchrange%3A2",
+                    "count": 1,
+                    "isSelected": false
+                },
+                {
+                    "name": "1",
+                    "path": "averageoveralluserrating0enrchrange%3A1",
+                    "count": 3,
+                    "isSelected": false
+                }
+            ],
+            "isMultiSelect": true,
+            "order": 11
+        },
+        {
+            "name": "Categories",
+            "systemName": "category",
+            "count": 8,
+            "filters": [
+                {
+                    "name": "Video Games",
+                    "path": "category%3AVideo+Games",
+                    "count": 109,
+                    "isSelected": false
+                },
+                {
+                    "name": "Toys, Drones & Education",
+                    "path": "category%3AToys%2C+Drones+%26+Education",
+                    "count": 9,
+                    "isSelected": false
+                },
+                {
+                    "name": "Movies & Music",
+                    "path": "category%3AMovies+%26+Music",
+                    "count": 3,
+                    "isSelected": false
+                },
+                {
+                    "name": "Audio",
+                    "path": "category%3AAudio",
+                    "count": 1,
+                    "isSelected": false
+                },
+                {
+                    "name": "Beauty",
+                    "path": "category%3ABeauty",
+                    "count": 1,
+                    "isSelected": false
+                },
+                {
+                    "name": "Home Living",
+                    "path": "category%3AHome+Living",
+                    "count": 1,
+                    "isSelected": false
+                },
+                {
+                    "name": "More from Best Buy Marketplace",
+                    "path": "category%3AMore+from+Best+Buy+Marketplace",
+                    "count": 1,
+                    "isSelected": false
+                },
+                {
+                    "name": "Musical Instruments & Equipment",
+                    "path": "category%3AMusical+Instruments+%26+Equipment",
+                    "count": 1,
+                    "isSelected": false
+                }
+            ],
+            "isMultiSelect": false,
+            "order": 12
+        }
+    ],
+    "lastSearchDate": "2021-08-03T03:03:40.975",
+    "relatedQueries": null,
+    "sscs": [],
+    "relatedCategories": null,
+    "selectedFacets": [],
+    "resources": null,
+    "redirectUrl": null,
+    "promotions": null,
+    "hasBrandStore": false,
+    "productStatusCode": "200",
+    "sscStatusCode": null,
+    "Brand": "BestBuyCanada",
+    "breadcrumb": []
+}
